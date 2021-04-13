@@ -8,4 +8,5 @@ p {
 }
 body {
 	background-image: url("tausta.png");
+	background-size: 100% 100%;
 }
